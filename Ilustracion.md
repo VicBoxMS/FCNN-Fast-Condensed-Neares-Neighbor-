@@ -11,6 +11,6 @@ Objetivo : Mostrar el funcionamiento del metodo de selección de instancias FCNN
 ![moons](https://user-images.githubusercontent.com/101311053/170200675-1635be4f-9a2b-4648-830d-03f6aee2886c.gif)
 
 
-###  Conjunto de datos Iris, 2 componentes principales
+###  Conjunto de datos 3, DataSet : Iris, 2 componentes principales
 
 ![iris](https://user-images.githubusercontent.com/101311053/170200576-eb77d1d0-c293-4d19-be50-7b486bb1bd15.gif)
